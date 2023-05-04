@@ -8,6 +8,10 @@ scrapy = "*"
 pandas = "*"
 requests = "*"
 regex = "*"
+bs4 = "*"
+html5lib = "*"
+selenium = "*"
+openpyxl = "*"
 
 [dev-packages]
 
