@@ -13,6 +13,13 @@ html5lib = "*"
 selenium = "*"
 openpyxl = "*"
 configparser = "*"
+msedge-selenium-tools = "*"
+browsermob-proxy = "*"
+selenium-wire = "*"
+tabula = "*"
+tabula-py = "*"
+pypdf2 = "*"
+python3-ldap = "*"
 
 [dev-packages]
 ipykernel = "*"
